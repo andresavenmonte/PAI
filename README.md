@@ -1,4 +1,4 @@
-# PAI
+# PIA
 Repositorio para la materia de Programación de Inteligencia Artificial
 
 ## TAREA 01: Habilitando un perfil en el ecosistema de desarrollo de inteligencia aritficial
